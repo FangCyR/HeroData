@@ -1,0 +1,518 @@
+{
+  "1": {
+    "name": "Miya",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero01.png"
+  },
+  "2": {
+    "name": "Balmond",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero02.png"
+  },
+  "3": {
+    "name": "Saber",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero03.png"
+  },
+  "4": {
+    "name": "Alice",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero04.png"
+  },
+  "5": {
+    "name": "Nana",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero05.png"
+  },
+  "6": {
+    "name": "Tigreal",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero06.png"
+  },
+  "7": {
+    "name": "Alucard",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero07.png"
+  },
+  "8": {
+    "name": "Karina",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero08.png"
+  },
+  "9": {
+    "name": "Akai",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero09.png"
+  },
+  "10": {
+    "name": "Franco",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero10.png"
+  },
+  "11": {
+    "name": "Bane",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero11.png"
+  },
+  "12": {
+    "name": "Bruno",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero12.png"
+  },
+  "13": {
+    "name": "Clint",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero13.png"
+  },
+  "14": {
+    "name": "Rafaela",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero14.png"
+  },
+  "15": {
+    "name": "Eudora",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero15.png"
+  },
+  "16": {
+    "name": "Zilong",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero16.png"
+  },
+  "17": {
+    "name": "Fanny",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero17.png"
+  },
+  "18": {
+    "name": "Layla",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero18.png"
+  },
+  "19": {
+    "name": "Minotaur",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero19.png"
+  },
+  "20": {
+    "name": "Lolita",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero20.png"
+  },
+  "21": {
+    "name": "Hayabusa",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero21.png"
+  },
+  "22": {
+    "name": "Freya",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero22.png"
+  },
+  "23": {
+    "name": "Gord",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero23.png"
+  },
+  "24": {
+    "name": "Natalia",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero24.png"
+  },
+  "25": {
+    "name": "Kagura",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero25.png"
+  },
+  "26": {
+    "name": "Chou",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero26.png"
+  },
+  "27": {
+    "name": "Sun",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero27.png"
+  },
+  "28": {
+    "name": "Alpha",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero28.png"
+  },
+  "29": {
+    "name": "Ruby",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero29.png"
+  },
+  "30": {
+    "name": "Yi Sun-shin",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero30.png"
+  },
+  "31": {
+    "name": "Moskov",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero31.png"
+  },
+  "32": {
+    "name": "Johnson",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero32.png"
+  },
+  "33": {
+    "name": "Cyclops",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero33.png"
+  },
+  "34": {
+    "name": "Estes",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero34.png"
+  },
+  "35": {
+    "name": "Hilda",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero35.png"
+  },
+  "36": {
+    "name": "Aurora",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero36.png"
+  },
+  "37": {
+    "name": "Lapu-Lapu",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero37.png"
+  },
+  "38": {
+    "name": "Vexana",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero38.png"
+  },
+  "39": {
+    "name": "Roger",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero39.png"
+  },
+  "40": {
+    "name": "Karrie",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero40.png"
+  },
+  "41": {
+    "name": "Gatotkaca",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero41.png"
+  },
+  "42": {
+    "name": "Harley",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero42.png"
+  },
+  "43": {
+    "name": "Irithel",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero43.png"
+  },
+  "44": {
+    "name": "Grock",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero44.png"
+  },
+  "45": {
+    "name": "Argus",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero45.png"
+  },
+  "46": {
+    "name": "Odette",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero46.png"
+  },
+  "47": {
+    "name": "Lancelot",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero47.png"
+  },
+  "48": {
+    "name": "Diggie",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero48.png"
+  },
+  "49": {
+    "name": "Hylos",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero49.png"
+  },
+  "50": {
+    "name": "Zhask",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero50.png"
+  },
+  "51": {
+    "name": "Helcurt",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero51.png"
+  },
+  "52": {
+    "name": "Pharsa",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero52.png"
+  },
+  "53": {
+    "name": "Lesley",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero53.png"
+  },
+  "54": {
+    "name": "Jawhead",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero54.png"
+  },
+  "55": {
+    "name": "Angela",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero55.png"
+  },
+  "56": {
+    "name": "Gusion",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero56.png"
+  },
+  "57": {
+    "name": "Valir",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero57.png"
+  },
+  "58": {
+    "name": "Martis",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero58.png"
+  },
+  "59": {
+    "name": "Uranus",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero59.png"
+  },
+  "60": {
+    "name": "Hanabi",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero60.png"
+  },
+  "61": {
+    "name": "Chang'e",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero61.png"
+  },
+  "62": {
+    "name": "Kaja",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero62.png"
+  },
+  "63": {
+    "name": "Selena",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero63.png"
+  },
+  "64": {
+    "name": "Aldous",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero64.png"
+  },
+  "65": {
+    "name": "Claude",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero65.png"
+  },
+  "66": {
+    "name": "Vale",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero66.png"
+  },
+  "67": {
+    "name": "Leomord",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero67.png"
+  },
+  "68": {
+    "name": "Lunox",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero68.png"
+  },
+  "69": {
+    "name": "Hanzo",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero69.png"
+  },
+  "70": {
+    "name": "Belerick",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero70.png"
+  },
+  "71": {
+    "name": "Kimmy",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero71.png"
+  },
+  "72": {
+    "name": "Thamuz",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero72.png"
+  },
+  "73": {
+    "name": "Harith",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero73.png"
+  },
+  "74": {
+    "name": "Minsitthar",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero74.png"
+  },
+  "75": {
+    "name": "Kadita",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero75.png"
+  },
+  "76": {
+    "name": "Faramis",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero76.png"
+  },
+  "77": {
+    "name": "Badang",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero77.png"
+  },
+  "78": {
+    "name": "Khufra",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero78.png"
+  },
+  "79": {
+    "name": "Granger",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero79.png"
+  },
+  "80": {
+    "name": "Guinevere",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero80.png"
+  },
+  "81": {
+    "name": "Esmeralda",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero81.png"
+  },
+  "82": {
+    "name": "Terizla",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero82.png"
+  },
+  "83": {
+    "name": "X.Borg",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero83.png"
+  },
+  "84": {
+    "name": "Ling",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero84.png"
+  },
+  "85": {
+    "name": "Dyrroth",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero85.png"
+  },
+  "86": {
+    "name": "Lylia",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero86.png"
+  },
+  "87": {
+    "name": "Baxia",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero87.png"
+  },
+  "88": {
+    "name": "Masha",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero88.png"
+  },
+  "89": {
+    "name": "Wanwan",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero89.png"
+  },
+  "90": {
+    "name": "Silvanna",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero90.png"
+  },
+  "91": {
+    "name": "Cecilion",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero91.png"
+  },
+  "92": {
+    "name": "Carmilla",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero92.png"
+  },
+  "93": {
+    "name": "Atlas",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero93.png"
+  },
+  "94": {
+    "name": "Popol and Kupa",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero94.png"
+  },
+  "95": {
+    "name": "Yu Zhong",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero95.png"
+  },
+  "96": {
+    "name": "Luo Yi",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero96.png"
+  },
+  "97": {
+    "name": "Benedetta",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero97.png"
+  },
+  "98": {
+    "name": "Khaleed",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero98.png"
+  },
+  "99": {
+    "name": "Barats",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero99.png"
+  },
+  "100": {
+    "name": "Brody",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero100.png"
+  },
+  "101": {
+    "name": "Yve",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero101.png"
+  },
+  "102": {
+    "name": "Mathilda",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero102.png"
+  },
+  "103": {
+    "name": "Paquito",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero103.png"
+  },
+  "104": {
+    "name": "Gloo",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero104.png"
+  },
+  "105": {
+    "name": "Beatrix",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero105.png"
+  },
+  "106": {
+    "name": "Phoveus",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero106.png"
+  },
+  "107": {
+    "name": "Natan",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero107.png"
+  },
+  "108": {
+    "name": "Aulus",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero108.png"
+  },
+  "109": {
+    "name": "Aamon",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero109.png"
+  },
+  "110": {
+    "name": "Valentina",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero110.png"
+  },
+  "111": {
+    "name": "Edith",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero111.png"
+  },
+  "112": {
+    "name": "Floryn",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero112.png"
+  },
+  "113": {
+    "name": "Yin",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero113.png"
+  },
+  "114": {
+    "name": "Melissa",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero114.png"
+  },
+  "115": {
+    "name": "Xavier",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero115.png"
+  },
+  "116": {
+    "name": "Julian",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero116.png"
+  },
+  "117": {
+    "name": "Fredrinn",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero117.png"
+  },
+  "118": {
+    "name": "Joy",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero118.png"
+  },
+  "119": {
+    "name": "Novaria",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero119.png"
+  },
+  "120": {
+    "name": "Arlott",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero120.png"
+  },
+  "121": {
+    "name": "Ixia",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero121.png"
+  },
+  "122": {
+    "name": "Nolan",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero122.png"
+  },
+  "123": {
+    "name": "Cici",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero123.png"
+  },
+  "124": {
+    "name": "Chip",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero124.png"
+  },
+  "125": {
+    "name": "Zhuxin",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero125.png"
+  },
+  "126": {
+    "name": "Suyou",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero126.png"
+  },
+  "127": {
+    "name": "Lukas",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero127.png"
+  },
+  "128": {
+    "name": "Kalea",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero128.png"
+  },
+  "129": {
+    "name": "Zetian",
+    "head": "https://raw.githubusercontent.com/FangCyR/HeroData/refs/heads/main/Head/Hero129.png"
+  }
+}
